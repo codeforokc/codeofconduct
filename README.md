@@ -1,5 +1,7 @@
-codeofconduct
+Code for OKC Code of Conduct & Anti-Harassment Policy
 =============
+
+Code for OKC operates under the Code for America code of conduct and anti-harassment policy, which can be read below.
 
 ####Code for America's Code of Conduct
 
